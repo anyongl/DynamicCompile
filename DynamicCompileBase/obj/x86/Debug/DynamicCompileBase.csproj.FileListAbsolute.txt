@@ -1,0 +1,7 @@
+E:\WorkingSpace\Projects\DynamicCompile\DynamicCompileBase\bin\Debug\DynamicCompileBase.exe
+E:\WorkingSpace\Projects\DynamicCompile\DynamicCompileBase\bin\Debug\DynamicCompileBase.pdb
+E:\WorkingSpace\Projects\DynamicCompile\DynamicCompileBase\obj\x86\Debug\DynamicCompileBase.Form1.resources
+E:\WorkingSpace\Projects\DynamicCompile\DynamicCompileBase\obj\x86\Debug\DynamicCompileBase.Properties.Resources.resources
+E:\WorkingSpace\Projects\DynamicCompile\DynamicCompileBase\obj\x86\Debug\DynamicCompileBase.csproj.GenerateResource.Cache
+E:\WorkingSpace\Projects\DynamicCompile\DynamicCompileBase\obj\x86\Debug\DynamicCompileBase.exe
+E:\WorkingSpace\Projects\DynamicCompile\DynamicCompileBase\obj\x86\Debug\DynamicCompileBase.pdb

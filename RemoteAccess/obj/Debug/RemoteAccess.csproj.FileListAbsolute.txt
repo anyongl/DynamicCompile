@@ -1,0 +1,9 @@
+E:\WorkingSpace\Projects\DynamicCompile\RemoteAccess\bin\Debug\RemoteAccess.dll
+E:\WorkingSpace\Projects\DynamicCompile\RemoteAccess\bin\Debug\RemoteAccess.pdb
+E:\WorkingSpace\Projects\DynamicCompile\RemoteAccess\obj\Debug\RemoteAccess.dll
+E:\WorkingSpace\Projects\DynamicCompile\RemoteAccess\obj\Debug\RemoteAccess.pdb
+D:\Download\DynamicCompile\RemoteAccess\bin\Debug\RemoteAccess.dll
+D:\Download\DynamicCompile\RemoteAccess\bin\Debug\RemoteAccess.pdb
+D:\Download\DynamicCompile\RemoteAccess\obj\Debug\RemoteAccess.csprojResolveAssemblyReference.cache
+D:\Download\DynamicCompile\RemoteAccess\obj\Debug\RemoteAccess.dll
+D:\Download\DynamicCompile\RemoteAccess\obj\Debug\RemoteAccess.pdb
